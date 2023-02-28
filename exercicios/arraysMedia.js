@@ -16,4 +16,4 @@ let v2 = numeros[1]
 let v3 = numeros[2]
 let Soma = v1 + v2 + v3
 let Media = Soma / numeros.length
-console.log(Media)
+console.log(`A média dos números (${v1}, ${v2}, ${v3}) é ${Media}.`)
